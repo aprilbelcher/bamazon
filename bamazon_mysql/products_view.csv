@@ -1,0 +1,12 @@
+"id","product_name","department_name","price","stock_quantity","product_sales"
+1,"Pants","Men's Wear",49.99,500,NULL
+2,"T-Shirt","Men's Wear",50.00,258,NULL
+3,"Reading Glasses","Men's Wear",150.00,450,NULL
+4,"Pencil Skirt","Women's Wear",75.00,650,NULL
+5,"Sandals","Women's Wear",80.00,40,NULL
+6,"Earrings","Women's Wear",43.00,150,NULL
+7,"Lego","Toys",43.00,800,NULL
+8,"Stuffed Animals","Toys",25.00,650,NULL
+9,"Garden Hose","Garden",15.00,340,NULL
+10,"Rake","Garden",18.50,6,NULL
+11,"Barbie Doll","Toys",30.00,700,NULL
